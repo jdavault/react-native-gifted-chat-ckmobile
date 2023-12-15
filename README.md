@@ -1,0 +1,1 @@
+react-native-gifted-chat code based based on // https://medium.com/geekculture/a-simple-way-to-build-a-mobile-chat-app-with-react-native-gifted-chat-203a6fad63a5 tutorial.  Uses Firebase as the conversation repository
